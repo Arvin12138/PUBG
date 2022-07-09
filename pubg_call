@@ -7,11 +7,17 @@
 
 【公告内容】
 更新公告：
-friday 热更新 2.1.3.2
-1.修复部分情况导致自瞄无效果问题
-2.优化后坐力调整
-3.新增新物资
-4.修复部分已知bug，增强稳定性
+friday 强制更新 2.1.4.1
+1.新增子弹追踪（稳定性自测，大概率封号，稳跟准 不可兼得，或者自己找防）
+2.新增准心显示
+3.新增瞄准部位调整
+4.新增无后（内存功能，自己找防，否则封号）若无效请持枪
+5.新增聚点（内存功能，自己找防，否则封号）若无效请持枪
+6.新增防抖（内存功能，自己找防，否则封号）
+7.优化服务器稳定性减少服务器连接失败
+8.修复部分情况下第一次启动闪退问题
+9.默认关闭安全模式
+10.修复部分已知bug，增强稳定性（高危功能不开启的情况下 不会读取）
 
 游戏闪退用户请随机面具包名，面具隐藏和平精英，软件闪退用户请锁后台,否则重新打开软件将会无效果，必须重启游戏
 【公告内容】
@@ -26,8 +32,8 @@ friday 热更新 2.1.3.2
 
 【网盘】https://www.baidu.com【网盘】
 
-【wjkeys】Y2NjYzgxMzY0N2UzNDg4MWIxMzk4MDkzOWMxYjg4OGQ=【wjkeys】
+【wjkeys】MTgyMTE4ZjYzNGU3MTcyMjRkZTFkZjFkMzU3ODBhNjQ=【wjkeys】
 
-【wjkeym】MGM0OThiNGM4N2QyOTI0YTg4ZGExN2MyNTAwMDg3ZDc=【wjkeym】
+【wjkeym】YTE5MzBmOWU5MjM2NzM2NGM5ZWQ4MDRmOWQ2Njc2OWI=【wjkeym】
 
-【版本号】213【版本号】
+【版本号】214【版本号】
